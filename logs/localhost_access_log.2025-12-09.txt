@@ -1,0 +1,14 @@
+0:0:0:0:0:0:0:1 - - [09/Dec/2025:21:53:44 +0300] "GET /TourAgency2 HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [09/Dec/2025:21:53:44 +0300] "GET /TourAgency2/ HTTP/1.1" 200 7648
+0:0:0:0:0:0:0:1 - - [09/Dec/2025:21:53:47 +0300] "GET /favicon.ico HTTP/1.1" 404 708
+0:0:0:0:0:0:0:1 - - [09/Dec/2025:21:53:50 +0300] "GET /TourAgency2/login.jsp HTTP/1.1" 200 2635
+0:0:0:0:0:0:0:1 - - [09/Dec/2025:21:54:03 +0300] "POST /TourAgency2/login HTTP/1.1" 200 2765
+0:0:0:0:0:0:0:1 - - [09/Dec/2025:21:54:15 +0300] "POST /TourAgency2/login HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [09/Dec/2025:21:54:15 +0300] "GET /TourAgency2/profile HTTP/1.1" 200 3588
+0:0:0:0:0:0:0:1 - - [09/Dec/2025:21:54:20 +0300] "GET /TourAgency2/managerControl HTTP/1.1" 200 2200
+0:0:0:0:0:0:0:1 - - [09/Dec/2025:21:54:23 +0300] "GET /TourAgency2/managerBookings HTTP/1.1" 200 26178
+0:0:0:0:0:0:0:1 - - [09/Dec/2025:21:54:28 +0300] "GET /TourAgency2/managerControl HTTP/1.1" 200 2200
+0:0:0:0:0:0:0:1 - - [09/Dec/2025:21:54:31 +0300] "GET /TourAgency2/managerPrograms HTTP/1.1" 200 5032
+0:0:0:0:0:0:0:1 - - [09/Dec/2025:21:54:36 +0300] "GET /TourAgency2/managerControl HTTP/1.1" 200 2200
+0:0:0:0:0:0:0:1 - - [09/Dec/2025:21:54:38 +0300] "GET /TourAgency2/profile HTTP/1.1" 200 3588
+0:0:0:0:0:0:0:1 - - [09/Dec/2025:21:54:56 +0300] "GET /TourAgency2/logout HTTP/1.1" 200 7482
