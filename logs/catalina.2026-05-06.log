@@ -99,3 +99,7 @@
 06-May-2026 18:23:16.048 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\User\IdeaProjects\TourAgency2\conf\Catalina\localhost\TourAgency2.xml] has finished in [7 616] ms
 06-May-2026 18:23:16.055 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
 06-May-2026 18:23:16.091 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [7818] milliseconds
+06-May-2026 18:24:46.190 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+06-May-2026 18:24:46.197 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+06-May-2026 18:24:46.217 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+06-May-2026 18:24:46.226 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
