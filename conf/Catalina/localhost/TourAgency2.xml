@@ -64,7 +64,6 @@
     <PostResources base="C:/Users/User/.m2/repository/org/springframework/spring-tx/6.1.1/spring-tx-6.1.1.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/spring-tx-6.1.1.jar"/>
     <PostResources base="C:/Users/User/.m2/repository/org/slf4j/slf4j-api/2.0.9/slf4j-api-2.0.9.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/slf4j-api-2.0.9.jar"/>
     <PostResources base="C:/Users/User/.m2/repository/org/springframework/spring-aspects/6.1.1/spring-aspects-6.1.1.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/spring-aspects-6.1.1.jar"/>
-    <PostResources base="C:/Users/User/.m2/repository/org/projectlombok/lombok/1.18.30/lombok-1.18.30.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/lombok-1.18.30.jar"/>
     <PostResources base="C:/Users/User/.m2/repository/org/postgresql/postgresql/42.6.0/postgresql-42.6.0.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/postgresql-42.6.0.jar"/>
     <PostResources base="C:/Users/User/.m2/repository/org/checkerframework/checker-qual/3.31.0/checker-qual-3.31.0.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/checker-qual-3.31.0.jar"/>
     <PostResources base="C:/Users/User/.m2/repository/com/h2database/h2/2.2.224/h2-2.2.224.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/h2-2.2.224.jar"/>
